@@ -2,7 +2,7 @@
 int main ()
 {
 	float l,b,A,P;
-	printf ("Enter length l and breadth b");
+	printf ("Enter length l and breadth b: ");
 	scanf("%f%f",&l,&b);
 	A = l * b;
 	P = 2*(l+b);
