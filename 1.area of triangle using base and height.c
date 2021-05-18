@@ -15,5 +15,6 @@ main ()
   area = 0.5 * b * h;
   printf ("Area of triangle = %.2f", area);
   printf ("\nWritten by techpradip");
+  
   return 0;
 }
