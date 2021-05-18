@@ -1,5 +1,9 @@
 /*
- * C program to find the area of a triangle, given three sides
+C program to find the area of a triangle, given three sides
+A=sqrt() function to calculate square root
+<math.h> is header file of function of sqrt()
+
+
  */
 
 #include <stdio.h>
