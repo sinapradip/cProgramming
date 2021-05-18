@@ -16,8 +16,7 @@ main ()
   rs = pow (r, 2);		// pow() function makes rs as square of r
   A = PI * rs;
   c = 2 * PI * r;
-  printf ("Area of circle of radius %.2f is %.2f and circumference is %f", r,
-	  A, c);
+  printf ("Area of circle of radius %.2f is %.2f and circumference is %f", r,A, c);
 
   return 0;
 }
