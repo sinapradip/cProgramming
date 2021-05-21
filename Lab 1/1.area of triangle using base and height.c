@@ -1,7 +1,6 @@
 /*
 Calculating area of triangle by taking base and height as input.
 Formula used Area= 0.5*b *h 
-
 */
 #include <stdio.h>
 
